@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+	<meta charset="UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Galaxy Diner</title>
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans|Ubuntu" rel="stylesheet">
+</head>
+
+<body>
+	<div class="baggrund_container">
+		<img src="imgs/neon%20galaxy.jpg" alt="">
+
+	</div>
+	<section id="modal">
+		<button class="modalButton">Luk Ret</button>
+		<div id="modalContent">
+
+			<h2 class="overskrift" data-navn>---</h2>
+			<img class="billede" data-billede src=".---" alt="---">
+			<p class="beskrivelse" data-beskrivelse></p>
+			<p> Er det vegetar? <span class="vegetar" data-vegetar>---</span></p>
+			<p>Pris: <span class="pris" data-pris>---</span>, - </p>
+
+		</div>
+
+	</section>
+	<header class="header_menu">
+		<a href="forside.html"><button id="forside_knap"><img src="imgs/Logo-05.jpg" alt="" id="forside_knap_billede"></button></a>
+
+		<nav>
+			<button class="menu-item kategori" data-kategori="alle">Alle Retter</button>
+			<button class="menu-item kategori" data-kategori="forret">forretter</button>
+			<button class="menu-item kategori" data-kategori="hovedret">hovedretter</button>
+			<button class="menu-item kategori" data-kategori="dessert">desserter</button>
+			<button class="menu-item kategori" data-kategori="drikkevarer">drikkevarer</button>
+
+
+
+
+		</nav>
+		<header class="header_burger">
+			<button class="burger">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+    </button>
+			<nav class="nav_burger">
+				<ul>
+					<li>link 1</li>
+					<li>link 2</li>
+					<li>link 3</li>
+					<li>link 3</li>
+				</ul>
+			</nav>
+		</header>
+		<a href="kontakt.html"><button id="kontakt_knap">Kontakt Info </button></a>
+
+	</header>
+
+
+
+	<main class="retterContainer"></main>
+
+	<template class="retTemplate">
+	<article class="ret">
+ <h2 class = "overskrift" data-navn >---</h2>
+                <img class = "billede" data-billede src = ".---" alt = "---" >
+                
+                <p>Pris: <span class="pris" data-pris >---</span>, - </p>
+	</article>
+</template>
+
+
+	<footer class="footer_menu">
+
+		<div class="footer1">
+			<p>Lavet af Søren Rembøll</p>
+
+		</div>
+		<div class="footer2">
+			<p id="footer2_tekst"> Link til github</p>
+			<a href="https://github.com/soer145a"><img src="imgs/GitHub-Mark.png" alt="" id="github"></a>
+
+		</div>
+		<div class="footer3">
+			<a href="https://kea.dk/"> <img src="imgs/KEA.jpg" alt="" id="kea"></a>
+			<p>Designet af KEA studerende</p>
+		</div>
+
+	</footer>
+	<script src="javascript.js"></script>
+
+
+</body>
+
+</html>

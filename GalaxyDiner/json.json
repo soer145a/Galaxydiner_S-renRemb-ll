@@ -1,0 +1,155 @@
+[
+	{
+		"id": 1,
+		"navn": "Galakse Burger",
+		"pris": 50,
+		"billede": "burger",
+		"beskrivelse": "Burger med salat og ketchup",
+		"vegetar": "nej",
+		"kategori": "hovedret"
+   },
+	{
+		"id": 2,
+		"navn": "Saturns Loegringe",
+		"pris": 40,
+		"billede": "loeringe",
+		"beskrivelse": "friturestegt loegringe",
+		"vegetar": "nej",
+		"kategori": "forret"
+   },
+	{
+		"id": 3,
+		"navn": "Rum Salat",
+		"pris": 30,
+		"billede": "salat",
+		"beskrivelse": "Diverse grøntsager med iceberg salat",
+		"vegetar": "ja",
+		"kategori": "hovedret"
+   },
+	{
+		"id": 4,
+		"navn": "Neptun Sandwich",
+		"pris": 35,
+		"billede": "sandwich",
+		"beskrivelse": "Toastbrød med skinke, ost og salat",
+		"vegetar": "nej",
+		"kategori": "hovedret"
+   },
+	{
+		"id": 5,
+		"navn": "Dark Matter steak",
+		"pris": 80,
+		"billede": "beef",
+		"beskrivelse": "stor okse bøf med tilbehør",
+		"vegetar": "nej",
+		"kategori": "hovedret"
+   },
+	{
+		"id": 6,
+		"navn": "Sort hul burger",
+		"pris": 55,
+		"billede": "burger2",
+		"beskrivelse": "Burger med diverse barbecue ingredienser",
+		"vegetar": "nej",
+		"kategori": "hovedret"
+   },
+	{
+		"id": 7,
+		"navn": "Comet Plate",
+		"pris": 45,
+		"billede": "plate",
+		"beskrivelse": "en plate med diverse retter",
+		"vegetar": "nej",
+		"kategori": "forret"
+   },
+	{
+		"id": 8,
+		"navn": "Stjerne Snacks",
+		"pris": 20,
+		"billede": "snacks",
+		"beskrivelse": "friture stegte lækkerier",
+		"vegetar": "nej",
+		"kategori": "forret"
+   },
+	{
+		"id": 9,
+		"navn": "Alien Ribs",
+		"pris": 60,
+		"billede": "ribs",
+		"beskrivelse": "ribs med barbecue sovs",
+		"vegetar": "nej",
+		"kategori": "hovedret"
+   },
+	{
+		"id": 10,
+		"navn": "Supernova Sundae",
+		"pris": 30,
+		"billede": "is",
+		"beskrivelse": "en sundae med forskellige sovse",
+		"vegetar": "nej",
+		"kategori": "dessert"
+   },
+	{
+		"id": 11,
+		"navn": "Jupiter Jumbo fritter",
+		"pris": 25,
+		"billede": "fritter",
+		"beskrivelse": "friture stegte kartoffel strænger",
+		"vegetar": "ja",
+		"kategori": "forret"
+   },
+	{
+		"id": 12,
+		"navn": "Raket Olie Kaffe",
+		"pris": 8,
+		"billede": "kaffe",
+		"beskrivelse": "sort kaffe lavet med kærlighed",
+		"vegetar": "ja",
+		"kategori": "drikkevarer"
+   },
+	{
+		"id": 13,
+		"navn": "Shooting Star Shot",
+		"pris": 10,
+		"billede": "shot",
+		"beskrivelse": "Alkoholisk genstand lavet på vodka",
+		"vegetar": "ja",
+		"kategori": "drikkevarer"
+   },
+	{
+		"id": 14,
+		"navn": "Cola fra det ydre rum",
+		"pris": 15,
+		"billede": "cola",
+		"beskrivelse": "almindelig cola",
+		"vegetar": "nej",
+		"kategori": "drikkevarer"
+   },
+	{
+		"id": 15,
+		"navn": "Mars Is",
+		"pris": 30,
+		"billede": "is2",
+		"beskrivelse": "Vanilie is med Karamel sovs",
+		"vegetar": "nej",
+		"kategori": "dessert"
+   },
+	{
+		"id": 16,
+		"navn": "Flyvede Pandekager",
+		"pris": 40,
+		"billede": "pandekager",
+		"beskrivelse": "pandekager med Sirup",
+		"vegetar": "nej",
+		"kategori": "dessert"
+   },
+	{
+		"id": 17,
+		"navn": "Veganske Brownies",
+		"pris": 50,
+		"billede": "brownie",
+		"beskrivelse": "veganske brownies med chokolade sovs",
+		"vegetar": "ja",
+		"kategori": "dessert"
+   }
+]
